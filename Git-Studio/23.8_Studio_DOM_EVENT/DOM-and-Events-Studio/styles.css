@@ -1,0 +1,45 @@
+
+
+#shuttleBackground {
+    text-align: center;
+    background-color: green;
+    height: 80%;
+    width: 501px;
+    position: relative;
+}
+
+#flightStatus {
+    color: green;
+}
+
+#flightDisplay {
+    text-align: center; 
+    height: 400px; 
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+}
+
+#spaceShuttleHeight {
+    display: inline-block;
+}
+
+.bottom-margin{
+    margin-bottom: 0;
+}
+
+.center-block {
+    text-align: center; 
+    display: inline-block;
+}
+
+.centered {
+    text-align: center;
+}
+
+.padding-adjustment{
+    padding: 0 0 3px;
+    margin: 0;
+}
